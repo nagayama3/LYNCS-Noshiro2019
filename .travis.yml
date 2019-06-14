@@ -1,6 +1,7 @@
 language: python
 install: 
   - pip install opencv-python
+  - pip install smbus2
 script:
   - cd raspberry_pi
   - python -m unittest discover
