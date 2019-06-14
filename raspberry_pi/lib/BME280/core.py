@@ -5,7 +5,6 @@ import math
 sea_pressure = 1018
 max_high = 40
 low_high = 37
-given_data = 30
 
 bus_number = 1
 i2c_address = 0x76
